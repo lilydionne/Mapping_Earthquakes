@@ -1,6 +1,6 @@
 Geojson - What is it?
  - Open standar format for respresenting simple geo features, using JSON
- - 
+ - types: points, poly, circles are all ways data can be displayed on the map
 
  Leaflet Notes
   - L.control: 
